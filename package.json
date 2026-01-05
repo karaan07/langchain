@@ -12,6 +12,7 @@
   "type": "module",
   "dependencies": {
     "@langchain/openai": "^1.2.0",
+    "cheerio": "^1.1.2",
     "dotenv": "^17.2.3",
     "langchain": "^1.2.3",
     "zod": "^4.3.5"
